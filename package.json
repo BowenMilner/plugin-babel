@@ -5,7 +5,7 @@
   "jspmPackage": true,
   "repository": {
     "type": "git",
-    "url": "http://github.com/systemjs/plugin-babel.git"
+    "url": "git+https://github.com/systemjs/plugin-babel.git"
   },
   "license": "MIT",
   "bugs": {
